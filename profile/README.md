@@ -1,5 +1,5 @@
 
-# gtu student portal — quick guide, tips, and weirdy-unique writeup
+# gtu student portal 
 
 ok, so if you’re a GTU student, or just landed here by accident, this is the one stop messy guide for the **GTU Student Portal**. i looked at the top ranked pages for the keyword "gtu student portal" and stitched things together, with some SEO candies (high CPC edu keywords) dropped inside to help adsense — like **engineering entrance coaching cost**, **online diploma courses fee**, **best GATE coaching fee**, **distance education fees**, **computer science course fee**, **scholarship for engineering students** .
 
