@@ -1,7 +1,7 @@
 
 # gtu student portal 
 
-ok, so if you’re a GTU student, or just landed here by accident, this is the one stop messy guide for the **GTU Student Portal**. i looked at the top ranked pages for the keyword "gtu student portal" and stitched things together, with some SEO candies (high CPC edu keywords) dropped inside to help adsense — like **engineering entrance coaching cost**, **online diploma courses fee**, **best GATE coaching fee**, **distance education fees**, **computer science course fee**, **scholarship for engineering students** .
+ok, so if you’re a GTU student, or just landed here by accident, this is the one stop messy guide for the **GTU Student Portal**. i looked at the top ranked pages for the keyword "gtu student portal" and stitched things together, with some candies  like **engineering entrance coaching cost**, **online diploma courses fee**, **best GATE coaching fee**, **distance education fees**, **computer science course fee**, **scholarship for engineering students** .
 
 <img width="954" height="90" alt="image" src="https://github.com/user-attachments/assets/d2ba5e23-55d7-46dd-bc25-353ff78c66a9" />
 
@@ -41,11 +41,6 @@ I checked the top results on Google for "gtu student portal" and these are the m
 | gturesults.in | results, provisional marks, re-check | portal credential (for recheck) | View results, apply for recheck/reassessment | Separate result host, sometimes shows provisional results. |
 | gtuadm.samarth.edu.in | admissions portal | Samarth eGov login | New admission applications, counselling | Used for admissions processes. |
 | gtuexams.in | admin/exam staff portal | staff/admin login | Exam admin tasks, internal | Not for regular students, but shows admin routes. |
-
----
-
-## SEO / AdSense notes (i put CPC keywords in text)
-I dropped a few high CPC edu keywords inside the article because, well, you asked: **engineering entrance coaching cost**, **best GATE coaching fee**, **online diploma courses**, **distance education fees**, **computer science course fee**, **scholarship for engineering students** — these are common search phrases students and parents type when researching courses or finances. Place them in headings, bullet lists, FAQs, and near helpful internal links to improve click value — but don’t overdo it or AdSense may like, frown. (Note: always follow AdSense policy when placing ads.)  
 
 ---
 
